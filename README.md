@@ -1,6 +1,6 @@
-![AlexNet Architecture](zfnet.png)
+![ZFNet Architecture](zfnet.png)
 
-# AlexNet architecture from scratch
+# ZFNet architecture from scratch
 
 ## About architecture
 
